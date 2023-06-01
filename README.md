@@ -1,6 +1,6 @@
 # Kubic - Kubernetes Infrastructure as Code
 
-CentraleSupélec a basculé une partie de ses applications web sur une infrastructure Kubernetes chez un cloud provider (OVHCloud) en 2020, s’inscrivant ainsi dans la doctrine “Cloud au centre” de l’état.
+CentraleSupélec a basculé une partie de ses applications web sur une infrastructure Kubernetes chez un cloud provider (OVHCloud) en 2020, s’inscrivant ainsi dans la doctrine “[Cloud au centre](https://www.numerique.gouv.fr/services/cloud/doctrine/)” de l’état.
 
 Il a fallu itérer au fil des projets car l’écosystème Kubernetes est vaste et évolue rapidement.
 
@@ -9,6 +9,8 @@ C’est pourquoi CentraleSupélec a développé Kubic et vous le propose en open
 - Il s’installe en 15 minutes
 - Il s’appuie sur les services d’un cloud provider (OVHCloud ou Scaleway)
 - Il vous facilite les montées de version
+
+<br>
 
 Kubic apporte les composants essentiels au bon fonctionnement du cluster :
 
@@ -23,9 +25,11 @@ Ce projet prend la forme d’une description Terraform, permettant d’appeler l
 
 La description du cluster étant totalement _as code_, cela offre la possibilité de redéployer son infrastructure sur un nouveau cluster afin par exemple d’y tester une montée de version ou réaliser un PRA.
 
-Et comme la configuration est standardisée grâce Terraform et Helm, elle ouvre également la possibilité de mutualiser les expertises et les bonnes pratiques entre les différents utilisateurs du projet.
+Et comme la configuration est standardisée grâce à Terraform et Helm, elle ouvre également la possibilité de mutualiser les expertises et les bonnes pratiques entre les différents utilisateurs du projet.
 
 La documentation de Kubic est disponible en ligne : <https://openfun.github.io/kubic/>, et le code source sur le Github de France Université Numérique : <https://github.com/openfun/kubic/>
+
+<br />
 
 <p align="center">
     <a href="https://github.com/openfun/kubic"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=openfun&repo=kubic" /></a>

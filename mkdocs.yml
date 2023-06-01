@@ -1,0 +1,20 @@
+site_name: Kubic
+site_url: https://centralesupelec.github.io/kubic/
+site_description: Kubernetes Infrastructure as Code
+site_author: CentraleSupélec
+
+repo_name: openfun/kubic
+repo_url: https://github.com/openfun/kubic
+
+theme:
+  name: material
+  palette:
+    primary: custom
+    accent: custom
+  logo: assets/logo.svg
+  favicon: assets/favicon.ico
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - "Présentation du projet": "index.md"

@@ -2,15 +2,15 @@
 
 CentraleSupélec a basculé une partie de ses applications web sur une infrastructure Kubernetes chez un cloud provider (OVHCloud) en 2020, s’inscrivant ainsi dans la doctrine “Cloud au centre” de l’état.
 
-Il a fallu itérer au fil des projets car l’écosystème Kubernetes est vaste et évolue rapidement. En effet,
+Il a fallu itérer au fil des projets car l’écosystème Kubernetes est vaste et évolue rapidement.
 
-C’est pourquoi CentraleSupélec a développé Kubic et vous le propose en opensource:
+C’est pourquoi CentraleSupélec a développé Kubic et vous le propose en opensource :
 
 - Il s’installe en 15 minutes
 - Il s’appuie sur les services d’un cloud provider (OVHCloud ou Scaleway)
 - Il vous facilite les montées de version
 
-Kubic apporte les composants essentiels au bon fonctionnement du cluster:
+Kubic apporte les composants essentiels au bon fonctionnement du cluster :
 
 - Un ingress controller : [Ingress-Nginx](https://kubernetes.github.io/ingress-nginx/)
 - Un gestionnaire de certificats : [cert-manager](https://cert-manager.io/)

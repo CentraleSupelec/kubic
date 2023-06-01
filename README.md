@@ -26,3 +26,7 @@ La description du cluster étant totalement _as code_, cela offre la possibilit�
 Et comme la configuration est standardisée grâce Terraform et Helm, elle ouvre également la possibilité de mutualiser les expertises et les bonnes pratiques entre les différents utilisateurs du projet.
 
 La documentation de Kubic est disponible en ligne : <https://openfun.github.io/kubic/>, et le code source sur le Github de France Université Numérique : <https://github.com/openfun/kubic/>
+
+<p style="text-align:center">
+    <a href="https://github.com/openfun/kubic"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=openfun&repo=kubic" /></a>
+</p>

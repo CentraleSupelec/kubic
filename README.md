@@ -27,6 +27,6 @@ Et comme la configuration est standardisée grâce Terraform et Helm, elle ouvre
 
 La documentation de Kubic est disponible en ligne : <https://openfun.github.io/kubic/>, et le code source sur le Github de France Université Numérique : <https://github.com/openfun/kubic/>
 
-<p style="text-align:center">
+<p align="center">
     <a href="https://github.com/openfun/kubic"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=openfun&repo=kubic" /></a>
 </p>

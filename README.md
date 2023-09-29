@@ -1,4 +1,11 @@
+---
+hide:
+  - navigation
+---
+
 # Kubic - Kubernetes Infrastructure as Code
+
+## Présentation
 
 CentraleSupélec a basculé une partie de ses applications web sur une infrastructure Kubernetes chez un cloud provider (OVHCloud) en 2020, s’inscrivant ainsi dans la doctrine “[Cloud au centre](https://www.numerique.gouv.fr/services/cloud/doctrine/)” de l’état.
 
@@ -29,7 +36,13 @@ Et comme la configuration est standardisée grâce à Terraform et Helm, elle ou
 
 La documentation de Kubic est disponible en ligne : <https://openfun.github.io/kubic/>, et le code source sur le Github de France Université Numérique : <https://github.com/openfun/kubic/>
 
-<br />
+## Webinaire DINUM
+
+CentraleSupélec a présenté Kubic à l'un des webinaires organisés par la DINUM. Le support [est disponible au téléchargement](pdf/Kubic - Webinaire DINUM.pdf), et le replay visible [à ce lien](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/26f6fa253cf483b89bcb8a3c8b41ddbfab504abd-1695289280656), ou ci-dessous :
+
+<iframe src="https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/26f6fa253cf483b89bcb8a3c8b41ddbfab504abd-1695289280656" allowfullscreen style="width:100%; height:500px"></iframe>
+
+## Carte Github
 
 <p align="center">
     <a href="https://github.com/openfun/kubic"><img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=openfun&repo=kubic" /></a>

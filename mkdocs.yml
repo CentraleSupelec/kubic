@@ -6,6 +6,9 @@ site_author: CentraleSupélec
 repo_name: openfun/kubic
 repo_url: https://github.com/openfun/kubic
 
+hide:
+  - navigation
+
 theme:
   name: material
   palette:
